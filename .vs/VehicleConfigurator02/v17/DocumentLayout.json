@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\dbrepos\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\dbrepos\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\models\\emailserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\models\\emailserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\models\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\dbrepos\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\dbrepos\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\models\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\models\\userropositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\models\\userropositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\controllers\\segmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|e:\\vehicleconfiguration.net\\myproject\\vehicleconfigurator02\\vehicleconfigurator02\\models\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA19D61-8414-490D-855F-5EC59BDD8248}|VehicleConfigurator02\\VehicleConfigurator02.csproj|solutionrelative:vehicleconfigurator02\\models\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailServiceImpl.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\EmailServiceImpl.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Models\\EmailServiceImpl.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\EmailServiceImpl.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Models\\EmailServiceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:30:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IEmailService.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Models\\IEmailService.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IEmailService.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Models\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:30:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\DbRepos\\MailSettings.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\DbRepos\\MailSettings.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\DbRepos\\MailSettings.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\DbRepos\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:30:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\DbRepos\\MailRequest.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\DbRepos\\MailRequest.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\DbRepos\\MailRequest.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\DbRepos\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:30:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\appsettings.Development.json",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\appsettings.Development.json",
+              "RelativeToolTip": "VehicleConfigurator02\\appsettings.Development.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T11:10:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\appsettings.json",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\appsettings.json",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\appsettings.json",
+              "RelativeToolTip": "VehicleConfigurator02\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T11:10:27.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Controllers\\FeedbackController.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:43:34.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\UserController.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:28:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SegmentController.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\SegmentController.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Controllers\\SegmentController.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Controllers\\SegmentController.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Controllers\\SegmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:28:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRopositoryImpl.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\UserRopositoryImpl.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Models\\UserRopositoryImpl.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\UserRopositoryImpl.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Models\\UserRopositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:24:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Models\\IUserRepository.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IUserRepository.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Models\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:24:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Program.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Program.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:21:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "VehicleConfigurator02\\Models\\IFeedbackRepository.cs",
+              "ToolTip": "E:\\VehicleConfiguration.net\\myproject\\VehicleConfigurator02\\VehicleConfigurator02\\Models\\IFeedbackRepository.cs",
+              "RelativeToolTip": "VehicleConfigurator02\\Models\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:18:01.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
